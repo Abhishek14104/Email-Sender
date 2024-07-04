@@ -2,9 +2,9 @@
 This Python script demonstrates how to send automated emails using the smtplib and email libraries. It loads recipient information from an Excel file and sends personalized emails using a Gmail account.
 
 ## Features
-Dynamic Email Sending: Reads recipient email addresses and names from an Excel file (list.xlsx).
-Personalized Messages: Each email includes a personalized message addressing the recipient by name.
-Secure Authentication: Uses TLS encryption to securely authenticate and send emails through Gmail's SMTP server.
+- Dynamic Email Sending: Reads recipient email addresses and names from an Excel file (list.xlsx).
+- Personalized Messages: Each email includes a personalized message addressing the recipient by name.
+- Secure Authentication: Uses TLS encryption to securely authenticate and send emails through Gmail's SMTP server.
 
 ## Usage
 - Clone the Repository:\
