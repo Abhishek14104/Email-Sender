@@ -54,8 +54,3 @@ except Exception as e:
 finally:
     workbook.close()
     s.quit()
-    
-    
-    
-
-# python .\sendEmail.py pythontesting14104@gmail.com hwnj nqjr wbrl yiqb
