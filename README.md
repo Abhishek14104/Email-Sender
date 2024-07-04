@@ -22,7 +22,7 @@ Populate it with recipient email addresses in the first column and recipient nam
 
 python send_email.py your_email@gmail.com your_password
 
-Replace your_email@gmail.com with your Gmail address and your_password with your Gmail app password (not your regular password as that will raise error due to Google security policy).\
+Replace your_email@gmail.com with your Gmail address and your_password with your Gmail app password (not your regular password as that will raise error due to Google security policy).
 - To generate your email's app password go to your Google Account Manager then to Security then turn on 2-Step Verification and then create your app password.
 
 ## Example
